@@ -1,0 +1,48 @@
+TESTS WITH ERRORS 
+-------------------------------
+TESTS FAILED  
+test01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 13, in test01
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+test02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 22, in test02
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+test03 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 31, in test03
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+test04 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 40, in test04
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+test05 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 49, in test05
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+test06 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 57, in test06
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+test07 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\planning\gradingtests.py", line 66, in test07
+    self.assertTrue(plan.ok)
+AssertionError: False is not true
+
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
